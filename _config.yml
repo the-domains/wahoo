@@ -1,0 +1,28 @@
+name: wahoo
+favicon: null
+layout_spectrum: 0.1184497696813196
+typography_spectrum: 0.5026229340583086
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21189959929324687
+  lightness: 0.16697758343070745
+  saturation: 0.22850471083074808
+  rhythmicContrast: 0.4337489432655275
+purpose: []
